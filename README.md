@@ -8,6 +8,6 @@ This version of QQE is available for MetaTrader 4, MetaTrader 5, and cTrader.
 
 ![Quantitative Qualitative Estimation indicator found some trend reversals on this short-term Bitcoin chart](https://github.com/EarnForex/QQE/blob/main/README_Images/qqe-mtf-arrows.png)
 
-More information about this custom MetaTrader indicator is available here: https://www.earnforex.com/metatrader-indicators/QQE/
+More information about this custom MetaTrader indicator is available here: https://www.earnforex.com/indicators/QQE/
 
 Any contributions to the code are welcome!
